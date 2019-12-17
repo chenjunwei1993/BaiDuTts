@@ -1,0 +1,69 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts",
+      "sdkFolder": "/Users/chenjunwei/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app",
+      "makeFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/.cxx",
+      "cxxFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx",
+      "ndkFolder": "/Users/chenjunwei/Library/Android/android-ndk-r20",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "dDebug",
+    "soFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/build/intermediates/cmake/dDebug/lib",
+    "objFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/build/intermediates/cmake/dDebug/obj",
+    "jsonFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug",
+    "gradleBuildOutputFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a",
+  "jsonFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a",
+  "objFolder": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/build/intermediates/cmake/dDebug/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cxx/dDebug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dDebug/armeabi-v7a/compile_commands.json"
+}

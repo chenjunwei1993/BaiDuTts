@@ -1,0 +1,50 @@
+ext {
+    app = [
+            refix          : "百度语音离线版本",
+            multiDexEnabled: true,
+            minifyEnabled  : false,
+            shrinkResources: false,
+            zipAlignEnabled: true
+    ]
+
+
+    db = [
+            targetGenDir : 'src/main/java',
+            daoPackage   : 'com.viroyal.commonlib.db.dao',
+            schemaVersion: 28
+    ]
+
+    android = [
+            applicationId             : "com.chris.tts",
+            versionCode               : 100,
+            versionName               : "1.0.0_${releaseTime()}",
+            minSdkVersion             : 19,
+            targetSdkVersion          : 27,
+            compileSdkVersion         : 28,
+            buildToolsVersion         : "28.0.3",
+            sourceCompatibilityVersion: JavaVersion.VERSION_1_8,
+            targetCompatibilityVersion: JavaVersion.VERSION_1_8
+    ]
+
+    sign = [
+            storeFile       : '../app/viroyalSignKey.jks',
+            storePassword   : '84159009',
+            keyAlias        : 'viroyal-nj',
+            keyPassword     : '84159009',
+            v2SigningEnabled: false
+    ]
+
+    dependencies = [
+            // Test Dependencies
+            junit        : 'junit:junit:4.12',
+            //android dependencies
+            appcompatV7  : 'com.android.support:appcompat-v7:27.1.0',
+            constraint   : 'com.android.support.constraint:constraint-layout:1.1.0',
+            rxpermissions: "com.github.tbruyelle:rxpermissions:0.10.2"
+    ]
+}
+
+def releaseTime() {
+    return new Date().format("yyyyMMdd", TimeZone.getTimeZone("GMT+8"))
+}
+

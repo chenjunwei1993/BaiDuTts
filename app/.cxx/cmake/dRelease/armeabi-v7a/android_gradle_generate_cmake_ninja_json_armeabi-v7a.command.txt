@@ -1,0 +1,15 @@
+Executable : /Users/chenjunwei/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/chenjunwei/资料/StudyGit/BaiDuTts/app
+-B/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/.cxx/cmake/dRelease/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-19
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/chenjunwei/资料/StudyGit/BaiDuTts/app/build/intermediates/cmake/dRelease/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/chenjunwei/Library/Android/android-ndk-r20
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_TOOLCHAIN_FILE=/Users/chenjunwei/Library/Android/android-ndk-r20/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/chenjunwei/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

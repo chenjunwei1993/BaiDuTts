@@ -1,0 +1,73 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_margin_top">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_min">8dp</dimen>
+
+    <dimen name="login_text_title_size">60.7dp</dimen>
+
+    <dimen name="clock_text_size_xxxl">10.7dp</dimen>
+    <dimen name="clock_text_size_xxl">40.7dp</dimen>
+
+    <dimen name="exam_size">120.7dp</dimen>
+    <!--通用型字体大小-->
+    <dimen name="text_size_xxxxl">40.7dp</dimen>
+    <dimen name="text_size_xxxl">30.7dp</dimen>
+    <dimen name="text_size_xxl">15dp</dimen>
+
+    <dimen name="text_size_xxll">19.7dp</dimen>
+    <!--activit title -->
+    <dimen name="text_size_xll">15.7dp</dimen>
+    <dimen name="text_size_xl">12.7dp</dimen>
+    <!--设置项左边 title-->
+    <dimen name="text_size_l">10.3dp</dimen>
+    <!--设置项右边 content, toolbar右上按钮文字-->
+    <dimen name="text_size_m">13.3dp</dimen>
+    <dimen name="text_size_s">11.3dp</dimen>
+    <dimen name="text_size_ss">9.3dp</dimen>
+
+    <dimen name="item_size_xl">30dp</dimen>
+    <dimen name="test_title_size">25dp</dimen>
+
+    <dimen name="setting_item_height">70dp</dimen>
+
+    <dimen name="save_btn_width">300dp</dimen>
+    <dimen name="save_btn_height">150dp</dimen>
+
+    <dimen name="food_title_height">30dp</dimen>
+    <dimen name="item_food_height">40dp</dimen>
+    <dimen name="item_class_height">30dp</dimen>
+    <dimen name="class_width">50dp</dimen>
+    <dimen name="log_width">249dp</dimen>
+    <dimen name="log_height">48dp</dimen>
+
+    <dimen name="setting_item_paddingLeft">13.3dp</dimen>
+    <dimen name="setting_item_paddingRight">13.3dp</dimen>
+    <dimen name="setting_item_middle_padding">10dp</dimen>
+    <dimen name="setting_item_left_padding">10dp</dimen>
+    <dimen name="setting_item_right_padding">10dp</dimen>
+
+    <dimen name="item_home_width">350dp</dimen>
+    <dimen name="item_home_height">340dp</dimen>
+
+    <dimen name="home_bottom_height">60px</dimen>
+    <dimen name="home_top_height">60px</dimen>
+    <dimen name="head_layout_height">80px</dimen>
+    <dimen name="weather_width">40px</dimen>
+
+    <dimen name="dlg_width">400dp</dimen>
+    <dimen name="dlg_height">300dp</dimen>
+    <dimen name="dlg_img_width">110dp</dimen>
+    <dimen name="dlg_img_height">160dp</dimen>
+
+    <dimen name="lesson_width">600dp</dimen>
+    <dimen name="lesson_height">360dp</dimen>
+
+
+    <dimen name="text_size_notice_foods">25dp</dimen>
+    <dimen name="shape_corners">10dp</dimen>
+
+    <dimen name="dialog_input_text_size">40.7dp</dimen>
+
+</resources>
